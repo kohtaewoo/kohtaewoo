@@ -19,6 +19,6 @@
 <br/>
 ## 🚀 Projects
 
-- [Project 1]([steelless](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)): 철근 누락 아파트 모음.
+- [steelless]([Link to Project 1](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/): Brief description about the project.
 </div>
 
