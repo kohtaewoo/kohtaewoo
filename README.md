@@ -9,7 +9,7 @@
   
 <br/>
   
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=&amp;">
 <img src="https://img.shields.io/badge/C++-00599C?style-for-the-badge&amp;logo=cplusplus&amp;labelColor=&amp;color=E34F26">
 <img src="https://img.shields.io/badge/Python-3776AB?style-for-the-badge&amp;logo=&amp;labelColor=&amp;color=E34F26">
 <img src="https://img.shields.io/badge/JAVA-007396?style-for-the-badge&amp;logo=&amp;labelColor=&amp;color=E34F26">
@@ -19,6 +19,7 @@
 <br/>
 ## 🚀 Projects
 
-- [steelless]([Link to Project 1](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/): Brief description about the project.
+- [Project 1]([Link to Project 1](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)): steelless
+- 
 </div>
 
