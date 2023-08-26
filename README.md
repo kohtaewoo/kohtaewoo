@@ -19,10 +19,8 @@
 
 <br/>
 <br/>
+## 🚀 Projects
 
-## 📈 Github Contributions
-
-[![kohtaewoo's github activity graph](https://activity-graph.herokuapp.com/graph?username=usernamekohtaewoo)](https://github.com/kohtaewoo)
-
+- [Project 1]([Link to Project 1](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)): 철근 누락 아파트 모음.
 </div>
 
