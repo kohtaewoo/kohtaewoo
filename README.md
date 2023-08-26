@@ -5,8 +5,6 @@
 ####  :wave: Welcome to my GitHub profile!
 
 <br/>
-<br/>
-  
 ####  :clipboard: Technologies I've Used
   
 <br/>
@@ -21,6 +19,6 @@
 <br/>
 ## 🚀 Projects
 
-- [Project 1]([Link to Project 1](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)): 철근 누락 아파트 모음.
+- [Project 1]([steelless](https://port-0-steelless-fq2r52kllomxmkm.sel3.cloudtype.app/)): 철근 누락 아파트 모음.
 </div>
 
