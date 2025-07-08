@@ -9,7 +9,9 @@
 
 <p>
 🎓 Studying Information and Communication Engineering at Dongguk University 
+<br>
 🚀 Passionate about scalable, efficient back-end systems and cloud-native architecture 
+<br>
 🔧 Exploring DevOps & Infrastructure to bridge development and operations 
 </p>
 
