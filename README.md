@@ -55,6 +55,7 @@
 | 🎮 롤 추천 시스템 **LoL Recommend** | Python, Java, TypeScript | 2025.03 ~ 2025.06 | 데이터분석프로그래밍 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
 | 🧠 뇌졸중 예측 시스템 **Stroke Predictor** | Python, ML | 2025.03 ~ 2025.06 | 캡스톤디자인 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
 | 👓 시력+MBTI 기반 자리 배치 시스템 **VisionSeat** | Java | 2025.07.04 ~ 진행중 | 개인 프로젝트 | [GitHub](https://github.com/moonstone0514/miniProject) |
+
 <br>
 
 ## 🏫 Organization
