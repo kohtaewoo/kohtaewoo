@@ -14,7 +14,7 @@ I am passionate about building scalable and efficient back-end systems.
 </p>
 
 <br>
-### ➰ **Tech Stack**
+➰**Tech Stack** 
 
 **☁️ Cloud & DevOps**  
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
