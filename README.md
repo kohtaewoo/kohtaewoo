@@ -55,9 +55,9 @@ I am passionate about building scalable and efficient back-end systems.
 <br>
 
 ## 🏫 Organization
-
-<a href="https://github.com/FISA-DevHub"><img src="https://img.shields.io/badge/-FISA-DevHub-brightgreen"/></a> FISA (Farm-based Innovation Software Association) 개발 동아리 활동 중<br/>
-<a href="https://github.com/Technique-Capstone-Design"><img src="https://img.shields.io/badge/-Capstone%20Design-blue"/></a> 동국대 캡스톤디자인 실습 프로젝트 참여
+- 🟢 **우리은행FISA (Farm-based Innovation Software Association)** 클라우드 엔지니어링 과정  
+- 🔵 **FarmSystem 2기** (Dr.이리로 프로젝트, 최우수상 수상)  
+- ⚪ **DNA (Dongguk Linux Association)** 리눅스 커뮤니티 동아리 
 
 <br/>
 
