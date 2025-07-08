@@ -8,8 +8,9 @@
 </div>
 
 <p>
-I am majoring in Information and Communication Engineering at Dongguk University.<br/>
-I am passionate about building scalable and efficient back-end systems.
+🎓 Studying Information and Communication Engineering at Dongguk University
+🚀 Passionate about scalable, efficient back-end systems and cloud-native architecture
+🔧 Exploring DevOps & Infrastructure to bridge development and operations
 </p>
 
 <br>
