@@ -72,6 +72,33 @@ I am passionate about building scalable and efficient back-end systems.
 
 <br>
 
+## 📚 Study
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">📅 기간</th>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">📝 내용</th>
+        <th style="padding: 8px; border-bottom: 1px solid #ddd;">🔗 GitHub Repo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 8px; text-align: center;">2025.03 ~</td>
+        <td style="padding: 8px;">FISA Java 스터디 (기초부터 심화까지 학습)</td>
+        <td style="padding: 8px;"><a href="https://github.com/FISA-DevHub/java_study" target="_blank">java_study</a></td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; text-align: center;">2025.07 ~ 2025.07</td>
+        <td style="padding: 8px;">Oracle/MySQL 실습 중심 스터디</td>
+        <td style="padding: 8px;"><a href="https://github.com/yeomyeoung/Mysql_OracleStudy" target="_blank">Mysql_OracleStudy</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align='center'>
