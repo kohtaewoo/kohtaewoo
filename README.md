@@ -13,8 +13,10 @@ I am majoring in Information and Communication Engineering at Dongguk University
 I am passionate about building scalable and efficient back-end systems.
 </p>
 
-### ➰ **Tech Stack**
 <br>
+
+### ➰ **Tech Stack**
+
 **☁️ Cloud & DevOps**  
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
