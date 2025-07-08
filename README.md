@@ -64,9 +64,9 @@
 <br>
 
 ## 🏫 Organization
-- 🟢 **우리은행FISA (Farm-based Innovation Software Association)** 클라우드 엔지니어링 과정  
-- 🔵 **FarmSystem 2기** (Dr.이리로 프로젝트, 최우수상 수상)  
-- ⚪ **DNA (Dongguk Linux Association)** 리눅스 커뮤니티 동아리 
+- 🟢 **FarmSystem 2기**  
+- 🔵 **DNA (Dongguk Linux Association)** 리눅스 커뮤니티 동아리 
+- ⚪ **우리은행FISA (Farm-based Innovation Software Association)** 클라우드 엔지니어링 과정
 
 <br/>
 
