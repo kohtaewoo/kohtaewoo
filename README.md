@@ -1,7 +1,4 @@
-<!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-
-## 👋 Hi, I'm Ko Tae Woo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shantell+Sans&weight=500&size=28&duration=5004&pause=1000&color=C68FE6&width=435&lines=Hi!+I'm+TaeWoo+Ko+%3AD)](https://git.io/typing-svg) 
 
 <div>
 <a href="mailto: rhxodn011020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
