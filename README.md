@@ -43,6 +43,7 @@ I am passionate about building scalable and efficient back-end systems.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
+
 ## 🚩 Projects
 | Title | Stack | Period | Organization / Course | Links |
 | :-- | :--: | :--: | :-- | :-- |
@@ -57,7 +58,9 @@ I am passionate about building scalable and efficient back-end systems.
 ## 🏫 Organization
 
 <a href="https://github.com/FISA-DevHub"><img src="https://img.shields.io/badge/-FISA-DevHub-brightgreen"/></a> FISA (Farm-based Innovation Software Association) 개발 동아리 활동 중<br/>
-<a href="https://github.com/Technique-Capstone-Design"><img src="https://img.shields.io/badge/-Capstone%20Design-blue"/></a> 동국대 캡스톤디자인 실습 프로젝트 참여<br/>
+<a href="https://github.com/Technique-Capstone-Design"><img src="https://img.shields.io/badge/-Capstone%20Design-blue"/></a> 동국대 캡스톤디자인 실습 프로젝트 참여
+
+<br/>
 
 <br>
 
