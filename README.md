@@ -45,13 +45,14 @@ I am passionate about building scalable and efficient back-end systems.
 
 ## 🚩 Projects
 
-| Title | Stack | Period | Organization | Links |
-| :-- | :--: | :--: | :--: | :-- |
-| 💌 편지 웹 서비스 **Letter** | Java, Spring | 2024.03 ~ 2024.06 | 개인 프로젝트 | Private |
+| Title | Stack | Period | Organization / Course | Links |
+| :-- | :--: | :--: | :-- | :-- |
+| 🛠️ 철근 누락 감지 시스템 **Steelless** | Python, OpenCV | 2023.04 ~ 2023.05 | 개인 프로젝트 | [GitHub](https://github.com/kohtaewoo/steelless) |
+| 🌱 스마트팜 시스템 **FarmSystem2th** | Arduino, IoT | 2023.05 | FISA | [GitHub](https://github.com/kohtaewoo/FarmSystem2th) |
+| 🍽️ 식당 예약 웹사이트 **SoftwareEngineering_TermProject** | JavaScript, HTML/CSS, Django | 2024.03 ~ 2024.06 | 소프트웨어공학 팀 프로젝트 | [GitHub](https://github.com/apg0001/SoftwareEngineering_TermProject) |
+| 🎮 롤 추천 시스템 **LoL Recommend** | Python, Java, TypeScript | 2025.03 ~ 2025.06 | 데이터분석프로그래밍 | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) [ML](https://github.com/kohtaewoo/lol_recommend_py) |
 | 🧠 뇌졸중 예측 시스템 **Stroke Predictor** | Python, ML | 2025.03 ~ 2025.06 | 캡스톤디자인 | [GitHub](https://github.com/kohtaewoo/stroke-predictor) |
-| 🎮 롤 추천 시스템 **LoL Recommend** | Python, Java, TypeScript | 2024.05 ~ 2024.06 | FISA | [Front](https://github.com/kohtaewoo/lol_recommend_front) [Back](https://github.com/kohtaewoo/lol_recommend_back) |
-| 🌱 Smart Farm System **FarmSystem2th** | Arduino, IoT | 2023.05 | FISA | [GitHub](https://github.com/kohtaewoo/FarmSystem2th) |
-
+| 👓 시력+MBTI 기반 자리 배치 시스템 **VisionSeat** | Java | 2025.07.04 ~ 진행중 | 개인 프로젝트 | [GitHub](https://github.com/moonstone0514/miniProject) |
 <br>
 
 ## 🏫 Organization
