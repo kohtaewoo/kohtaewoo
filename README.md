@@ -69,11 +69,22 @@
 ## 🏆 Awards
 
 <details>
-  <summary>🏅 캡스톤 디자인 발표회 수상 </summary>
-  `[2025.06]` - Stroke-based Brain Detection System
+  <summary>🥈 제주도 창업대회 우수상</summary>
+  `[2024.07]` - 침수 자동 개폐문: 사회 문제 해결 아이디어
+</details>
+
+<details>
+  <summary>🥇 2024 FARM 경진대회 최우수상</summary>
+  `[2024.01]` - Dr.이리로: AI 기반 비대면 왕진 서비스
+</details>
+
+<details>
+  <summary>🏅 인공지능 콘텐츠 제작 부문 수상</summary>
+  `[2024.05]` - 중구청 홍보 콘텐츠 제작 프로젝트
 </details>
 
 <br>
+
 
 ## 📚 Study
 
