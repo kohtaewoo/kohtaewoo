@@ -127,11 +127,14 @@
 <div align='center'>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohtaewoo&layout=compact&theme=default" alt="Top Languages" />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kohtaewoo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohtaewoo&layout=compact&theme=default" 
+       alt="Top Languages" width="42%" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kohtaewoo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=DA5B0B" 
+       alt="GitHub stats" width="56%" />
+</a>
+
 
 </div>
 
